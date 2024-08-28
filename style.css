@@ -1,6 +1,10 @@
 body{
-    background: ghostwhite;
-    color: dimgray;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 80%;
+    color: black;
     font-family: serif;
     text-align: center;
 }
